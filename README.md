@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gitmvfs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitmvfs&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitmvfs&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitmvfs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=Marcos-fSantos&icon=0&color=0)](https://visitcount.itsvg.in)
 
