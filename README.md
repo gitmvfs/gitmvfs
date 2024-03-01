@@ -11,11 +11,6 @@
   </a>
 </div>
 
-###
-
-<h2 align="center">" E aqueles que foram vistos dançando, foram criticados por aqueles que não escutavam a música"</h2>
-
-###
 
 <h2 align="left">Sobre mim</h2>
 
