@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/86b4d822ebd4bbbc89df42906a6402b3d7b3374139420b7cbeb39030e3e1b7b2/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f77656c636f6d652d6772656574696e672d31793274696d6d373633706377746c322e676966"  />
-</div>
-
 ###
 
 <div align="center">
