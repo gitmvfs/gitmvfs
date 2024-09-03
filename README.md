@@ -1,4 +1,4 @@
-<h1 align="center">"Quem não sabe o que busca, não identifica o que acha. " - Kant</h1>
+<h1 align="center">"Torna-te aquilo que és." - Friedrich Nietzsche</h1>
 
 ###
 
