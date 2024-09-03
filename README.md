@@ -1,67 +1,80 @@
-<h1 align="center">"Quem não sabe o que busca, não identifica o que acha. " - Kant</h1>
+<h2 align="center">"Torna-te aquilo que és." - Friedrich Nietzsche</h2>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marcos-santos-77756a260/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <img height="450" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-boas-vindas_114360-27447.jpg?t=st=1725328327~exp=1725331927~hmac=3ba404206ff84613866a8cb53e5405fc9889c321268e3169adc1c1b0bc7a39b4&w=826"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/__blood3_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
+  </a>
+  <a href="mailto:marcossantos8002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-santos-77756a260/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">Sobre mim</h3>
+<p align="center">Meu nome é Marcos Santos, tenho 19 anos. Sou formado em técnico desenvolvimento de Sistemas. Atualmente trabalho com desenvolvimento backend junior na empresa AlphaDantas Consultoria</p>
 
 ###
 
-<p align="left">Meu nome é Marcos Santos sou estudante de Desenvolvimento de Sistemas, tenho 19 anos e procuro uma oportunidade de ingressar no mercado.<br><br>- Calmo, boa comunicação e proativo.<br>- Gosto de ler, escutar música e jogar.<br>- Atualmente estudando sobre API REST com node, express e typescript.</p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="36" alt="nodejs logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="36" alt="express logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="36" alt="vuejs logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="36" alt="react logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="36" alt="typescript logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="36" alt="javascript logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="36" alt="python logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="36" alt="html5 logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="36" alt="css3 logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="36" alt="mysql logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="36" alt="mongodb logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="36" alt="azure logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="36" alt="googlecloud logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="36" alt="figma logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="36" alt="behance logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="36" alt="docker logo"  />
+  <img width="2" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="36" alt="git logo"  />
+</div>
 
 ###
 
-<h3 align="left">Stack:</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gitmvfs&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitmvfs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitmvfs&theme=vue&radius=16&hide_border=false&area=false&hide_title=false" height="150" alt="activity-graph graph"  />
+</div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">Estatisticas:</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitmvfs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitmvfs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gitmvfs&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitmvfs&radius=32&theme=redical&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
