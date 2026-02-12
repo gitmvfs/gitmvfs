@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Meu nome é Marcos Santos, tenho 21 anos. <br><br>🎓Técnico - Desenvolvimento de Sistemas - Senai Suiço-brasileira "Paulo Ernesto Tolle" - (02/2023 ~ 06/2024)<br>🎓Tecnólogo- Análise e Desenvolvimento de Sistemas - Fatec Zona Sul "Dom Paulo Evaristo Arns" - (07/2025 ~ 06/2028)<br><br>✨Entusiasta de tetris! [tetris perfil](https://ch.tetr.io/u/blood3)<br>❤Amante de café, Dachshund (salsichinha) e jogos<br>🤓Atualmente estudando sobre: ScyllaDB, FastAPI, LLM, Redis e Docker</p>
+<p align="left">Meu nome é Marcos Santos, tenho 21 anos. <br><br>🎓Técnico - Desenvolvimento de Sistemas - Senai Suiço-brasileira "Paulo Ernesto Tolle" - (02/2023 ~ 06/2024)<br>🎓Tecnólogo- Análise e Desenvolvimento de Sistemas - Fatec Zona Sul "Dom Paulo Evaristo Arns" - (07/2025 ~ 06/2028)<br><br>✨Entusiasta de tetris! <a href="https://ch.tetr.io/u/blood3">tetris perfil</a> <br>❤Amante de café, Dachshund (salsichinha) e jogos<br>🤓Atualmente estudando sobre: ScyllaDB, FastAPI, LLM, Redis e Docker</p>
 
 ###
 
