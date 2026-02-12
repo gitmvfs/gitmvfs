@@ -4,24 +4,32 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcos-santos-77756a260/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/__blood3_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">Sobre mim</h3>
+<p align="left"></p>
 
 ###
 
-<p align="left"> Meu nome é Marcos Santos, atualmente trabalho como estagiário em desenvolvimento backend na AlphaDantas Consultoria. Sou formado no curso técnico Desenvolvimento de Sistemas pelo Senai Santo Amaro - Suíço-Brasileira "Paulo Ernesto Tolle".  </p>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<h3 align="left">Stack:</h3>
+<p align="left">Meu nome é Marcos Santos, tenho 21 anos. <br><br>🎓Técnico - Desenvolvimento de Sistemas - Senai Suiço-brasileira "Paulo Ernesto Tolle" - (02/2023 ~ 06/2024)<br>🎓Tecnólogo- Análise e Desenvolvimento de Sistemas - Fatec Zona Sul "Dom Paulo Evaristo Arns" - (07/2025 ~ 06/2028)<br><br>✨Entusiasta de tetris! [tetris perfil](https://ch.tetr.io/u/blood3)<br>❤Amante de café, Dachshund (salsichinha) e jogos<br>🤓Atualmente estudando sobre: ScyllaDB, FastAPI, LLM, Redis e Docker</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">Front 🎨</h2>
 
 ###
 
@@ -30,38 +38,63 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+</div>
+
+###
+
+<h2 align="left">Backend 👨‍💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">Framework 🖥</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">Database 🔐</h2>
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="apachecassandra logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
 
 ###
 
-<h3 align="left">Estatisticas:</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitmvfs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitmvfs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=gitmvfs&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitmvfs&radius=32&theme=redical&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitmvfs/gitmvfs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitmvfs/gitmvfs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gitmvfs/gitmvfs/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
